@@ -1,0 +1,5 @@
+ (4 sloc)  52 Bytes
+echo "enter a number"
+read a
+sq=$(($a*$a))
+echo $sq
